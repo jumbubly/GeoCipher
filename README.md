@@ -38,15 +38,18 @@ To get started with GeoCipher, follow these simple steps:
 ## Getting Started
 
 Clone the repository to your local machine:
-    ```bash
+
+```bash```
     git clone <https://github.com/jumbubly/GeoCipher.git>
 
 Change to the project directory:
-    ```bash
+
+```bash```
     cd GeoCipher
 
 Run the GeoCipher application:
-    ```bash
+
+```bash```
     python geocipher.py
 
 The GUI will open, and you can start using GeoCipher to retrieve geographical data.
