@@ -43,7 +43,7 @@ Clone the repository to your local machine:
 
 Change to the project directory:
     ```bash
-    cd your-repo-name
+    cd GeoCipher
 
 Run the GeoCipher application:
     ```bash
