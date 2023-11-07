@@ -17,6 +17,9 @@ class GeoCipherApp(QMainWindow):
         self.setCentralWidget(central_widget)
 
         layout = QVBoxLayout()
+        
+        copyright_label = QLabel("Copyright © 2023 Reking - cracked.io/rekingg")
+        layout.addWidget(copyright_label)
 
 
         ascii_title_label = QLabel(
